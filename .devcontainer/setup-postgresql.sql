@@ -1067,4 +1067,3 @@ insert into staff values (997,'Reynolds','dreynoldsro@blogtalkradio.com','Female
 insert into staff values (998,'Walker','kwalkerrp@unicef.org','Female','Games','2/13/2010',60363,'Account Coordinator',1);
 insert into staff values (999,'Kennedy','lkennedyrq@edublogs.org','Male','Industrial','9/22/2004',48050,'Graphic Designer',2);
 insert into staff values (1000,'Howard','showardrr@addtoany.com','Male','Baby','11/7/2003',148687,'General Manager',3);
-
